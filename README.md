@@ -1,6 +1,6 @@
 <h1>Aplicación QroTour</h1>
 <h2>Iniciar Sesión</h2>
-<Img src = "./assets/Pictures-Readme/iniciar-sesion.jpeg">
+<Img style = "width: 150px; height: 350px" src = "./assets/Pictures-Readme/iniciar-sesion.jpeg">
 <h2>Registrar</h2>
 <Img src = "./assets/Pictures-Readme/registrar.jpeg">
 <h2>Inicio de la app, después del Registro / Inicio de Sesión</h2>
